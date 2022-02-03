@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/amortmusic",
-    "repository": "https://github.com/RAZANALYAFAE/AQANI",
+    "repository": "https://github.com/alhufra/Songs",
     "success_url": "https://t.me/hama_refaat",
     "env": {
         "API_ID": {
@@ -62,7 +62,7 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "𝙼𝚄𝚂𝙸𝙲..🎶"
+            "value": "ƊᏒᗩＣσŊ..🎶"
         }
     },
     "addons": [],
